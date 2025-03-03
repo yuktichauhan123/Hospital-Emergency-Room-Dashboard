@@ -34,5 +34,5 @@ This project is an **interactive Excel dashboard** designed to analyze **Emergen
 3. Use **slicers and filters** to interact with the data.  
 
 ## 📫 Connect with Me  
-[![LinkedIn](www.linkedin.com/in/yukti-chauhan/)  
+[![LinkedIn](https://www.linkedin.com/in/yukti-chauhan/)  
 [![GitHub](https://github.com/yuktichauhan123)  
